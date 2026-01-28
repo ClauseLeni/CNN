@@ -1,5 +1,7 @@
 # CNN for Predicting PPR Protein Binding Sites
 
+## Investigators: Leni Campbell-Clause, Ian Small, Catherine Colas des Francs-Small
+
 ## Overview
 This repository contains code for training and using a Convolutional Neural Network (CNN) to predict Pentatricopeptide Repeat (PPR) protein binding sites in plant organelles. The CNN is trained on four data types: small RNA (sRNA), 3' and 5' transcript ends, and conservation scores for "known" PPR binding sites. The trained model can then be used to predict the locations of potential PPR binding sites based on the patterns observed in the training data.
 
