@@ -1,0 +1,39 @@
+##gff-version 3									
+##source-version geneious 2024.0.4									
+##sequence-region	AP000423	1	154478						
+AP000423	Geneious	misc_feature	3351	3374	.	-	.	Name=matK (CRR2 predicted) (Ruwe et al., 2019)	present
+AP000423	Geneious	misc_feature	7321	7344	.	+	.	Name=psbK 3'/psbI 5' (CRR2 predicted)	present (small)
+AP000423	Geneious	misc_feature	11489	11510	.	-	.	Name=atpF 3'/atpA 5' (BFA2) (Zhelyazkova et al., 2012)	present
+AP000423	Geneious	misc_feature	13519	13552	.	-	.	Name=atpH 5' (PPR10) (Prikryl et al., 2011)	present
+AP000424	Geneious	misc_feature	14525	14548	.	+	.	Name=atpI (as) (C7) sRNA (CRR2 predicted) (Ruwe et al., 2019)	present
+AP000425	Geneious	misc_feature	17465	17488	.	+	.	Name=rpoC2 (as) (C8) sRNA (CRR2 predicted) (Ruwe et al., 2019)	present
+AP000426	Geneious	misc_feature	37238	37259	.	-	.	Name=rps14 5' (Zhelyazkova et al. 2012)	present
+AP000427	Geneious	misc_feature	42780	42787	.	+	.	Name=ycf3/pafI intron 1 (PBF2) (Wang et al., 2020)	present (small)
+AP000428	Geneious	misc_feature	43984	43991	.	-	.	Name=ycf3/pafI intron 2 (PBF2) (Potential) (Wang et al., 2020)	present (small)
+AP000429	Geneious	misc_feature	49634	49657	.	-	.	Name=ndhK (CRR2 Predicted) (Ruwe et al., 2019)	present
+AP000430	Geneious	misc_feature	54889	54922	.	+	.	Name=rbcL 5' (MRL1) (Johnson et al., 2010)	present
+AP000431	Geneious	misc_feature	61146	61169	.	-	.	Name=cemA CDS (C184) sRNA (CRR2 Predicted) (Ruwe et al., 2019)	present
+AP000432	Geneious	misc_feature	61615	61643	.	+	.	Name=cemA 3'/petA 5' (CRP1 predicted) (Ferrari et al., 2017)	present
+AP000433	Geneious	misc_feature	65654	65684	.	+	.	Name=petL 5' (PGR3) (Cai et al., 2011)	present
+AP000434	Geneious	misc_feature	68951	68969	.	-	.	Name=rps12A 3' (EMB2654) (Lee et al., 2019)	present
+AP000436	Geneious	misc_feature	69942	69961	.	-	.	Name=clpP1 (CLB19) (Ramos-Vega et al., 2015)	absent
+AP000439	Geneious	misc_feature	74794	74809	.	+	.	Name=petB 5' (HCF152) (Pfalz et al., 2009)	present
+AP000440	Geneious	misc_feature	76318	76358	.	+	.	Name=petB 3'/petD 5' (CRP1 predicted) (Ferrari et al., 2017)	present
+AP000441	Geneious	misc_feature	78691	78710	.	-	.	Name=rpoA (CLB19) (Ramos-Vega et al., 2015)	present (small)
+AP000423	Geneious	misc_feature	80597	80630	.	-	.	Name=rpl14 3'/rps8 5' (PGR3) (Rojas et al., 2018)	present (small)
+AP000423	Geneious	misc_feature	82691	82707	.	-	.	Name=rpl16 5' (EMB175 predicted) (Hammani et al., 2016)	present (small)
+AP000423	Geneious	misc_feature	86176	86199	.	+	.	Name=rpl23 5' (CRR2 IR1 Predicted) (Ruwe et al., 2019)	present (small)
+AP000423	Geneious	misc_feature	86577	86600	.	-	.	Name=ycf2 (CRR2 IR1 Predicted) (Ruwe et al., 2019)	present
+AP000423	Geneious	misc_feature	93567	93588	.	+	.	Name=ycf2 3' (CRR2 IR1 Predicted) (Ruwe et al., 2019)	present
+AP000423	Geneious	misc_feature	97155	97176	.	-	.	Name=ndhB 5' (CRR2 IR1) (Ruwe et al., 2019);	present
+AP000423	Geneious	misc_feature	99640	99654	.	-	.	Name=rps12B intron 1 (PPR4 IR1) (Lee et al., 2019)	present (small)
+AP000423	Geneious	misc_feature	104618	104643	.	+	.	Name=rrn23 5' (SOT1 IR1) (Wu et al., 2016)	present
+AP000423	Geneious	misc_feature	110821	110844	.	-	.	Name=ndhF (CRR2 Predicted) (Ruwe et al., 2019)	present
+AP000423	Geneious	misc_feature	117597	117633	.	-	.	Name=psaC 5' (CRP1 predicted) (Ferrari et al., 2017)	present (small)
+AP000423	Geneious	misc_feature	122052	122072	.	-	.	Name=ndhA 5' (PGR3) (Cai et al., 2011, Fujii et al., 2013)	present
+AP000423	Geneious	misc_feature	134006	134031	.	-	.	Name=rrn23 5' (SOT1 IR2) (Wu et al., 2016)	present
+AP000423	Geneious	misc_feature	138995	139009	.	+	.	Name=rps12B intron 1 (PPR4 IR2) (Lee et al., 2019)	present (small)
+AP000423	Geneious	misc_feature	141473	141494	.	+	.	Name=ndhB 5' (CRR2 IR2) (Ruwe et al., 2019)	present
+AP000423	Geneious	misc_feature	145061	145082	.	-	.	Name=ycf2 3' (CRR2 IR2 Predicted) (Ruwe et al., 2019)	present
+AP000423	Geneious	misc_feature	152049	152072	.	+	.	Name=ycf2 (CRR2 IR2 Predicted) (Ruwe et al., 2019)	present
+AP000423	Geneious	misc_feature	152450	152473	.	-	.	Name=rpl23 5' (CRR2 IR2 Predicted) (Ruwe et al., 2019)	present (small)
